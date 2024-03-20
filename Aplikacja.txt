@@ -7,10 +7,15 @@
 
 
 
-
   public void logowanie Google() {
         System.out.println("Podaj nazwe  email z gmail");
         System.out.println("Podaj  poprawne  hasło");
+	System.out.println("Kliknij na przycisk zaloguj");
+
+}
+
+   public void logowanie() {
+        System.out.println("Podaj nazwe  użytkownika microsoft");
+        System.out.println("Podaj  poprawne uzytkowniku hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
-
