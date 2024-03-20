@@ -1,0 +1,45 @@
+[33mcommit f036fa945d0d7c16c5fed9260b007d89fb789650[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: tester <nowewyzwanie@gmail.com>
+Date:   Mon Mar 18 23:43:17 2024 +0100
+
+    Revert "Zmiany w wymaganiach"
+    
+    This reverts commit fb77ff826d422359a780da87b7870bf04aa2ecb9.
+    
+    ~~~~~
+    ~~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    
+    :wq!
+
+[33mcommit fb77ff826d422359a780da87b7870bf04aa2ecb9[m
+Author: tester <nowewyzwanie@gmail.com>
+Date:   Mon Mar 18 23:37:20 2024 +0100
+
+    Zmiany w wymaganiach
+
+[33mcommit 433312a6abe6e2105e7d3409d1fc0bdb1cf803ab[m
+Author: tester <nowewyzwanie@gmail.com>
+Date:   Mon Mar 18 22:11:27 2024 +0100
+
+    dodawanie zmian z sekcji nieprzygotowane do zlozenia
+
+[33mcommit 98dcd72d2d9088009508e123d9c792b7d936c988[m
+Author: piotr kubanowski <toja@example.com>
+Date:   Mon Mar 18 18:33:44 2024 +0100
+
+    zmiana hasla na poprawne
+
+[33mcommit bcfddc7d4f8414291ea9ab51065ed6e0a3918ec7[m
+Author: piotr kubanowski <p.wski555@gmail.com>
+Date:   Mon Mar 18 18:18:09 2024 +0100
+
+    dodanie logowania
